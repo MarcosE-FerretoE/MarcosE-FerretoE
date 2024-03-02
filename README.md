@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I' Marcos Ferreto Estrada</h1>
 <h3 align="center">I'm a passionate programmer who enjoys using Python and its elegantly simplicity. I love exploring the various libraries and frameworks offered by the Python ecosystem, such as Django, Flask, and NumPy, to develop efficient and creative solutions. I'm constantly seeking to learn and share knowledge with the development community.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcose-ferretoe&label=Profile%20views&color=0e75b6&style=flat" alt="marcose-ferretoe" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
