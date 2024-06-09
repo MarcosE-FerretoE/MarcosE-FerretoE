@@ -16,8 +16,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/MarcosE-FerretoE/MarcosE-FerretoE/output/snake.svg" alt="Snake animation" />
-
-###
